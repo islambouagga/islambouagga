@@ -10,7 +10,7 @@ My skill set includes expertise in algorithms, full-stack development, web appli
 In my free time, I have worked on various projects, such as developing an online appointment application, a platform to help the wilaya of OUARGLA collect jobless people, an e-exam solution that allows universities to manage electronic exams, an e-commerce website using Vuejs Firebase, and an app to help organizations organize their charitable events.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islambouagga&label=Profile%20views&color=0e75b6&style=flat" alt="islambouagga" /> </p>
-
+<a href="https://wakatime.com/@b99ae6bb-14f1-4a33-8c4f-8e9d28125ca8"><img src="https://wakatime.com/badge/user/b99ae6bb-14f1-4a33-8c4f-8e9d28125ca8.svg" alt="Total time coded since Aug 30 2020" /></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=islambouagga" alt="islambouagga" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/islamslam1" target="blank"><img src="https://img.shields.io/twitter/follow/islamslam1?logo=twitter&style=for-the-badge" alt="islamslam1" /></a> </p>
