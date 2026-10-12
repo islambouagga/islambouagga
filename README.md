@@ -1,39 +1,95 @@
-<h1 align="center">Hi 👋, I'm Mohammed Bachir BOUAGGA</h1>
-<h3 align="center">I am a highly skilled and motivated Web Developer with experience in Siebel CRM Consulting. With a Master's degree in Computer Science and a strong background in Networking and Distributed Systems, I possess a solid foundation in software development, algorithms, and web technologies. My expertise lies in full-stack web development, with proficiency in Laravel, PHP, MERN Stack, JavaScript, and Vue.js. I am well-versed in developing scalable and efficient web applications, utilizing modern frameworks, and implementing best practices for security and performance.
+# Mohamed Bachir Bouagga
 
-Throughout my career, I have successfully delivered various projects, including an e-exam solution for universities called Exam-IO and an E-Commerce website using Vue.js and Firebase. I have experience in back-end development, API integration, database management, and troubleshooting, with a strong focus on delivering high-quality solutions that meet client requirements. I am also skilled in utilizing version control systems such as Git and have experience working with cloud platforms like GitHub, GitLab, and BitBucket.
+**Senior Full-Stack & Enterprise Systems Engineer**  
+Algiers, Algeria (Open to Remote & Global Relocation)
 
-As a Web Developer, I am constantly seeking opportunities to expand my knowledge and stay updated with the latest technologies and trends in the industry. I am a proactive problem-solver, dedicated to delivering innovative and user-friendly web applications. With excellent communication and teamwork skills, I thrive in collaborative environments and can effectively work with cross-functional teams to achieve project goals.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-bachir-bouagga-13328714b/)
+[![WakaTime Hours](https://wakatime.com/badge/user/b99ae6bb-14f1-4a33-8c4f-8e9d28125ca8.svg)](https://wakatime.com/@wachfiha)
+[![Email](https://img.shields.io/badge/Email-medbachirislam%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:medbachirislam@gmail.com)
 
-My passion for web development, combined with my technical expertise, allows me to create dynamic and visually appealing web solutions that enhance user experiences. I am excited to contribute my skills and drive to a progressive organization that values innovation and embraces cutting-edge technologies in the field of web development.</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=islambouagga&label=Profile%20views&color=0e75b6&style=flat" alt="islambouagga" /> </p>
-<a href="https://wakatime.com/@b99ae6bb-14f1-4a33-8c4f-8e9d28125ca8"><img src="https://wakatime.com/badge/user/b99ae6bb-14f1-4a33-8c4f-8e9d28125ca8.svg" alt="Total time coded since Aug 30 2020" /></a>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=islambouagga" alt="islambouagga" /></a> </p>
+### About Me
 
-<p align="left"> <a href="https://twitter.com/islamslam1" target="blank"><img src="https://img.shields.io/twitter/follow/islamslam1?logo=twitter&style=for-the-badge" alt="islamslam1" /></a> </p>
+Senior engineer with 5+ years of production experience spanning telecom BSS/CRM systems (DCS Consulting / Ooredoo Algeria), dual-database architectures (Oracle 11g + PostgreSQL 16), and modern full-stack development (PHP/Laravel 13, TypeScript, React 19, Vue.js).
 
-- 📝 I regularly write articles on [https://larapost-dz.blogspot.com/](https://larapost-dz.blogspot.com/)
+Architect of the **SR360 Dashboard**, a real-time operational analytics cockpit tracking millions of telecom Service Requests across 52 operational teams. Backed by **2,500+ verified coding hours** logged on WakaTime and an **M.Sc. in Distributed Systems & Networks**.
 
-- 💬 Ask me about **LARAVEL**
+---
 
-- 📫 How to reach me **Wachfiha@gmail.com**
+### ⏱️ Verified Coding Telemetry (WakaTime)
 
-- 📄 Know about my experiences [https://cvdesignr.com/p/5fd0e8923be59?hl=en_GB](https://cvdesignr.com/p/5fd0e8923be59?hl=en_GB)
+All-time development telemetry verified via [WakaTime](https://wakatime.com/@wachfiha) across production projects:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/islamslam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="islamslam1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/mohammed-bachir-bouagga-13328714b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mohammed-bachir-bouagga-13328714b/" height="30" width="40" /></a>
-<a href="https://fb.com/mohammed bachir bouagga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed bachir bouagga" height="30" width="40" /></a>
-<a href="https://instagram.com/islambouagga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="islambouagga" height="30" width="40" /></a>
-</p>
+| Category | Logged Hours | Focus Areas |
+| :--- | :--- | :--- |
+| **SQL & Databases** | **1,015+ hrs** | Oracle PL/SQL, PostgreSQL 16, DataGrip, Query Optimization |
+| **TypeScript & JavaScript** | **465+ hrs** | React 19, TypeScript, Vue.js, Siebel Open UI (PM/PR), Vite |
+| **PHP & Frameworks** | **361+ hrs** | Laravel 8–13, Lumen Microservices, PhpStorm, Reverb |
+| **Total Logged Effort** | **2,516+ hrs** | 5+ years of continuous production delivery |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=islambouagga&show_icons=true&locale=en&layout=compact" alt="islambouagga" /></p>
+### 🛠️ Technical Competencies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islambouagga&show_icons=true&locale=en" alt="islambouagga" /></p>
+- **Enterprise CRM & Telecom BSS:** Oracle Siebel CRM (8.1.x / IP13), Open UI (PM/PR, JSAPI), Siebel Tools, eScript, Workflows, eAI (SOAP/REST, XML/XSLT), EIM Batch ETL.
+- **Databases & High-Volume SQL:** Oracle Database (11g/12c/19c), PostgreSQL 16, Advanced PL/SQL (Packages, Stored Procedures, Triggers), Dual-Database Sync, Query Tuning (reduced Oracle audit scans from 2m 25s down to 0.2s–5s).
+- **Backend & APIs:** PHP (Laravel 8–13, Lumen), REST APIs, WebSockets (Laravel Reverb), Redis 7, Microservices, SOAP (WSDL/XSLT), Passport, Sanctum, LDAP / Active Directory.
+- **Frontend & Modern UI:** React 19, TypeScript, JavaScript (ES6+), Vue.js, Vite, Tailwind CSS v4, Zustand 5, TanStack Query 5, HTML5, CSS3, Blade.
+- **Architecture & DevOps:** System Architecture (HLD/LLD), Docker, Linux (RHEL), Nginx, Azure DevOps CI/CD, Git, Automated jsPDF reporting.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islambouagga&" alt="islambouagga" /></p>
+---
+
+### 🚀 Production Architecture Case Studies
+
+#### 1. SR360 Dashboard — Telecom Operations Cockpit
+*Laravel 13 • React 19 • TypeScript • Oracle 11g • PostgreSQL 16 • Redis 7 • Laravel Reverb (WebSockets)*
+- Architected a real-time analytics cockpit tracking millions of Service Requests to prevent OLA breaches across 52 operational teams at Ooredoo Algeria.
+- Designed an incremental audit sync (`s_audit_item`) cutting Oracle scan latency from 2m 25s to 0.2s–5s (98% drop), with warm-cache resets reducing peak DB hits by 62%.
+- Engineered Wilson lower-bound confidence scoring ($z=1.96$) to rank team SLA/OLA compliance fairly, with multi-tier Redis caching isolating global from team-scoped keys.
+- Delivered reactive frontend in React 19 + TypeScript + Vite with live WebSocket push updates and automated executive PDF exports.
+
+#### 2. Offerlik Platform Modernization
+*PHP 8.3 • Laravel 11 • Vue 2/3 • Vite • MySQL • Redis • Passport*
+- Led comprehensive platform modernization migrating core backend from PHP 7.3/Laravel 8 to modern PHP 8.3/Laravel 11.
+- Refactored 14 modular business packages (`laravel-modules`), upgraded Passport token auth, and modernized frontend build pipelines to Vite.
+
+#### 3. Client Segmentation Bulk Update Platform
+*Laravel • PostgreSQL 16 • Azure DevOps CI/CD • LDAP / Active Directory*
+- Engineered high-throughput data processing engine handling chunked batch updates with real-time WebSocket progress tracking.
+- Restricted operations to `CRM_OPS` Active Directory security groups with automated audit logging.
+
+#### 4. Exam-IO & newExamIO — Digital Assessment Management
+*PHP 8 • Laravel • TypeScript • MySQL • Qodana CI*
+- Built end-to-end examination platform featuring role-based access control (RBAC), encrypted test delivery, and automated CI/CD static code analysis.
+
+*(Note: Architecture diagrams, technical design specifications, and code walkthroughs for private enterprise repositories are available upon request.)*
+
+---
+
+### 📦 Public Repositories & Microservice Architectures
+
+- [**User_Management**](https://github.com/islambouagga/User_Management) — Role-based access control (RBAC), user permissions, and admin dashboard built with Laravel, REST APIs, and Vue.js. *(7 ⭐)*
+- [**API_Gateway-using-lumen**](https://github.com/islambouagga/API_Gateway-using-lumen) — Microservices API Gateway pattern managing authentication, request dispatching, and routing across decoupled backend services.
+- [**Authors-microservice**](https://github.com/islambouagga/Authors-microservice) & [**Books-microservice**](https://github.com/islambouagga/Books-microservice) — Independent, decoupled microservices demonstrating service-oriented communication and clean REST API contracts with Lumen.
+- [**E-Commerce-Website-Vuejs-Firebase**](https://github.com/islambouagga/E-Commerce-Website-Vuejs-Firebase) — Reactive web storefront utilizing Vue.js state management and Firebase real-time database persistence.
+- [**eexams**](https://github.com/islambouagga/eexams) — Core academic assessment management system with role-based evaluation workflows.
+
+---
+
+### 🎓 Education & Certifications
+
+- **Master of Science (M.Sc.) in Computer Science — Distributed Systems & Networks**  
+  *University of Constantine 2 – Abdelhamid Mehri (2017 – 2019)*
+- **Bachelor of Science (B.Sc.) in Computer Science**  
+  *University of Constantine 2 – Abdelhamid Mehri (2014 – 2017)*
+- **Certifications:** Google Cloud Certified: GCP Essentials • Google Certified: G Suite Essentials
+
+---
+
+### 📬 Get in Touch
+
+- **LinkedIn:** [linkedin.com/in/mohammed-bachir-bouagga-13328714b](https://www.linkedin.com/in/mohammed-bachir-bouagga-13328714b/)
+- **Email:** [medbachirislam@gmail.com](mailto:medbachirislam@gmail.com)
+- **WakaTime:** [wakatime.com/@wachfiha](https://wakatime.com/@wachfiha)
+- **Location:** Algiers, Algeria (Open to Remote & Global Relocation)
